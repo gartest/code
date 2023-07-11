@@ -23,7 +23,7 @@ for n in user_input_arr:
         #sino lo agregamos al arreglo de impares
         else:
             odd_numbers.append(curr_num)
-        #si es mayor a cero lo agregamos al 
+        #si es mayor a cero lo agregamos al ar5reglo de números positivos
         if(curr_num > 0):
             positive_numers.append(curr_num)
     #si la conversión no funciona se lo indicamos al usuario y agregamos ese string a un array de "no números"
